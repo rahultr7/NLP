@@ -1,6 +1,6 @@
 from logger import logging
 
-logger = logging.getLogger('ArithamticApp')
+logger = logging.getLogger('Arithamtic App')
 
 def add(a,b):
     logger.debug(f'Adding {a} and {b} gets {a+b}')
