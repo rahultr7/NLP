@@ -6,7 +6,10 @@ html5lib
 beautifulsoup4
 openpyxl
 matplotlib
+<<<<<<< HEAD
 seaborn
+=======
+>>>>>>> f35d696 (so)
 requests
 bs4
 flask
